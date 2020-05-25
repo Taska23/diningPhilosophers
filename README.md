@@ -10,9 +10,18 @@ win10: Панель управления -> Программы и компоне
 
 Выбрать любой, например убунтуху или кали.
 
-Запустить, в открывшемся терминале:
+Запустить, в открывшемся терминале:     (Копируй отсюда как обычно, в терминале жми ПКМ что бы вставить)
 
-sudo apt-get install g++ to install g++
+$ sudo apt-get install g++ to install g++
 
-sudo apt install git
+$ sudo apt install git
 
+$ git clone https://github.com/Taska23/diningPhilosophers.git
+
+$ cd diningPhilosophers
+
+$ g++ diningphilosophers.cpp -fopenmp
+
+$ ./a.out
+
+Что бы остановить: ctrl+c
