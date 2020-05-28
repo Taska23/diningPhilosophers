@@ -12,7 +12,7 @@ win10: Панель управления -> Программы и компоне
 
 Запустить, в открывшемся терминале:     (Копируй отсюда как обычно, в терминале жми ПКМ что бы вставить)
 
-$ sudo apt-get install g++ to install g++
+$ sudo apt-get install g++ 
 
 $ sudo apt install git
 
